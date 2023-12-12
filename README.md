@@ -73,3 +73,82 @@
  ![Screenshot from 2023-11-29 15-20-57](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/f5b6f9d6-0b38-45b7-9605-f0709d6fd7b6)
 
 
+
+ ##Write a script called mycase, using the case utility to checks the type of character entered by a user:
+     ##Upper Case.
+     ##Lower Case.
+     ##Number.
+     ##Nothing.
+![q1](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/8b57974c-338b-4143-ba89-5a4a7004dfa9)
+
+     
+ # Enhanced the previous script, by checking the type of string entered by a user:
+  ##Upper Cases.
+  ##Lower Cases.
+  ##Numbers.
+  ##Mix.
+  ##Nothing.
+  ![q2](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/96f28066-4250-46a3-8044-e4b38635c203)
+
+ ##Write a script called mychmod using for utility to give execute permission to all files ##and directories in your home directory.
+
+![q3](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/71799981-eca2-41fd-9b76-d11708b5d13a)
+
+ 
+ ##Write a script called mybackup using for utility to create a backup of only files in your ##home directory.
+![q4](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/e3ce779e-5626-4b40-bd8a-02aaa809c363)
+
+ 
+ ##Write a script called mymail using for utility to send a mail to all users in the system. ##Note: write the mail body in a file called mtemplate. 
+
+![q5](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/213c7525-43ac-4ef3-98e8-1f6d4795a005)
+
+ 
+ ##Write a script called chkmail to check for new mails every 10 seconds. Note: mails are ##saved in /var/mail/username.
+ 
+![q6](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/526a6958-88fc-4426-bc6d-7394cf2d7f91)
+
+
+ #What is the output of the following script
+##typeset –i n1
+##typeset –i n2
+##n1=1
+##n2=1
+##while test $n1 –eq $n2
+##do
+##	n2=$n2+1
+##	print $n1
+##if [ $n1 –gt $n2 ]
+##then
+##	break
+##else
+##	continue
+##fi
+##n1=$n1+1
+##print $n2
+##done
+
+#infinite loop
+
+##Create the following menu:
+           ##Press 1 to ls
+           ##Press 2 to ls –a
+           ##Press 3 to exit  
+
+ ![q8](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/f93c41f6-9243-4e4d-aacc-857b90444e3d)
+      
+##Using select utility then while utility.
+       ##Write a script called myarr that ask a user how many elements he wants to enter in ##an array, fill the array and then print it.
+
+![q9](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/a55dce3e-707f-4505-967c-f1367bddffbd)
+
+      
+  ##Write a script called myavg that calculate average of all numbers entered by a user. ##Note: use arrays
+
+![q10](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/69e10104-913b-4df6-b377-29214206919e)
+     
+##Write a function called mysq that calculate square if its argument.
+
+
+![q11](https://github.com/Abanoubmedhatseif/Bash/assets/146996493/f8822276-9e64-41f4-92a7-a268dc4bd00a)
+
